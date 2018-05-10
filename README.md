@@ -1,0 +1,2 @@
+# thesis-2018-code
+This repository contains the JavaScript code for all the blocks used in each of the lab and online version of the experiment. These represent a modified version of the Navon (1987) composite letter task. Additionally, a python script was created to automatically generate block code based on specifications given at baseline. Finally, the python and R scripts used for the calculation of the data is also included in this repository.
