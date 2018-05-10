@@ -1,0 +1,10 @@
+python navon.py -b 0 -t E -n 16 -o block0E.js -i
+python navon.py -b 1 -t E -n 32 -o block1E.js -p 3000
+python navon.py -b 2 -t E -n 32 -o block2E-1.js -p 0 -orderGL R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,L
+python navon.py -b 3 -t G -n 32 -o block3G-1.js -p 3000 -orderGL G,G,G,L,G,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,L,G
+python navon.py -b 4 -t L -n 32 -o block4L-1.js -p 3000 -orderGL L,L,L,G,L,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,G,L
+python navon.py -b 5 -t G -n 32 -o block5G-1.js -p 3000 -orderGL G,G,G,L,G,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,L,G
+python navon.py -b 6 -t L -n 32 -o block6L-1.js -i -orderGL L,L,L,G,L,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,G,L -d
+python navon.py -b 7 -t G -n 32 -o block7G-1.js -p 3000 -orderGL G,G,G,L,G,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,L,G -d
+python navon.py -b 8 -t L -n 32 -o block8L-1.js -p 3000 -orderGL L,L,L,G,L,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,G,L -d
+python navon.py -b 9 -t E -n 32 -o block9E-1.js -p 3000 -orderGL G,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R -d
